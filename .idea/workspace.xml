@@ -19,10 +19,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="84fa31e9-4c82-45db-86b3-43962c770f5a" name="Default Changelist" comment="窗口滑动最大值">
-      <change afterPath="$PROJECT_DIR$/golang/IntReverse.md" afterDir="false" />
+    <list default="true" id="84fa31e9-4c82-45db-86b3-43962c770f5a" name="Default Changelist" comment="整数反转">
+      <change afterPath="$PROJECT_DIR$/golang/minDiffCharDistance.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -80,12 +79,13 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="init" />
     <MESSAGE value="窗口滑动最大值" />
-    <option name="LAST_COMMIT_MESSAGE" value="窗口滑动最大值" />
+    <MESSAGE value="整数反转" />
+    <option name="LAST_COMMIT_MESSAGE" value="整数反转" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup" timestamp="1616828064338">
+    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup" timestamp="1616934176231">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup/0.0.1440.900@0.0.1440.900" timestamp="1616828064338" />
+    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup/0.0.1440.900@0.0.1440.900" timestamp="1616934176231" />
   </component>
 </project>
